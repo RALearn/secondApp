@@ -1,3 +1,2 @@
 # secondApp
-
-##Introduction
+the second app project
